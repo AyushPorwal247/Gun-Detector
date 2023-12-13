@@ -5,5 +5,4 @@ This is a YOLOv7 model trained for detecting guns(pistols and rifles) from given
 Roboflow link for dataset: 
 https://universe.roboflow.com/liteye-systems/weapon-classification
 
-Currently: Its accuracy is too low.
-(Will update this project later)
+
